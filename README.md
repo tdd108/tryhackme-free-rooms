@@ -216,7 +216,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
-## Crypto & Hashes
+## Cryptography & Hashes
 
 ---
 
@@ -229,6 +229,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 
 * [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
+
+* [TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)
 
 ## Steganography
 
@@ -465,6 +467,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ---
 
 * [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
+
+* [TryHackMe | Confidential](https://tryhackme.com/room/confidential)
 
 * [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
 
