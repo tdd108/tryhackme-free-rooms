@@ -466,6 +466,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
+* [TryHackMe | Bugged](https://tryhackme.com/room/bugged)
+
 * [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
 
 * [TryHackMe | Confidential](https://tryhackme.com/room/confidential)
