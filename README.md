@@ -260,6 +260,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
 
+* [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
+
 * [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
 * [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
