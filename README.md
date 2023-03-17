@@ -594,6 +594,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [TryHackMe | Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
+- [TryHackMe | Unattended](https://tryhackme.com/room/unattended)
+
 - [TryHackMe | GoldenEye](https://tryhackme.com/room/goldeneye)
 
 - [TryHackMe | StuxCTF](https://tryhackme.com/room/stuxctf)
