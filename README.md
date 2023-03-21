@@ -468,6 +468,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
+* [TryHackMe | LookBack](https://tryhackme.com/room/lookback)
+
 * [TryHackMe | Bugged](https://tryhackme.com/room/bugged)
 
 * [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
