@@ -469,6 +469,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Easy CTF
 
 ---
+* [TryHackMe | Opacity](https://tryhackme.com/room/opacity)
 
 * [TryHackMe | LookBack](https://tryhackme.com/room/lookback)
 
