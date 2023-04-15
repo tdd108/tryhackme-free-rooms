@@ -596,6 +596,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Medium CTF
 
 ---
+- [TryHackMe | Boogeyman 1](https://tryhackme.com/room/boogeyman1)
 
 - [TryHackMe | Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
