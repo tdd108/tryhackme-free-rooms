@@ -596,6 +596,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Medium CTF
 
 ---
+- [TryHackMe | Weasel](https://tryhackme.com/room/weasel)
+
 - [TryHackMe | Prioritise](https://tryhackme.com/room/prioritise)
 
 - [TryHackMe | Boogeyman 1](https://tryhackme.com/room/boogeyman1)
