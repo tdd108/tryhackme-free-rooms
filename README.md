@@ -467,6 +467,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Easy CTF
 
 ---
+* [TryHackMe | Valley!](https://tryhackme.com/room/valleype)
+
 * [TryHackMe | Capture!](https://tryhackme.com/room/capture)
 
 * [TryHackMe | Opacity](https://tryhackme.com/room/opacity)
