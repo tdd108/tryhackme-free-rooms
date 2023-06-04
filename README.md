@@ -30,7 +30,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Steganography](#steganography)**               | **6**           |                           |
 | **[Web](#web)**                                   | **27**          |                           |
 | **[Android](#android)**                           | **1**           |                           |
-| **[Forensics](#forensics)**                       | **5**           |                           |
+| **[Forensics](#forensics)**                       | **6**           |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                | **1**           |                           |
 | **[Reverse Engineering](#reverse-engineering)**   | **11**          |                           |
 | **[Malware Analysis](#malware-analysis)**         | **7**           |                           |
@@ -317,6 +317,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Forensics
 
 ---
+* [TryHackMe | Digital Forensics Case B4DM755](https://tryhackme.com/room/caseb4dm755)
 
 * [TryHackMe | Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)
 
