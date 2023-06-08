@@ -365,6 +365,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
+* [TryHackMe | Intro to Detection Engineering](https://tryhackme.com/room/introtodetectionengineering)
+
 * [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
 
 * [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
