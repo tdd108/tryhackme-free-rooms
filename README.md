@@ -97,6 +97,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Basics Rooms
 
 ---
+* [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 
 * [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
