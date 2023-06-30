@@ -252,6 +252,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Web
 
 ---
+* [TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 
 * [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
