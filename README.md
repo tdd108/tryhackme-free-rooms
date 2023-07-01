@@ -472,6 +472,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Easy CTF
 
 ---
+* [TryHackMe | Cat Pictures 2](https://tryhackme.com/room/catpictures2)
+
 * [TryHackMe | Flip](https://tryhackme.com/room/flip)
 
 * [TryHackMe | Valley!](https://tryhackme.com/room/valleype)
