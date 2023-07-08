@@ -472,6 +472,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Easy CTF
 
 ---
+* [TryHackMe | Snapped "Phish"-ing Line](https://tryhackme.com/room/snappedphishingline)
+
 * [TryHackMe | Cat Pictures 2](https://tryhackme.com/room/catpictures2)
 
 * [TryHackMe | Flip](https://tryhackme.com/room/flip)
