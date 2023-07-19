@@ -97,6 +97,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Basics Rooms
 
 ---
+* [TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
+
 * [TryHackMe | x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
 
 * [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
