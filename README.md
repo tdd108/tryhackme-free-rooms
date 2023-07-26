@@ -355,8 +355,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
 
-* https://tryhackme.com/room/ccradare
-
 * [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)
 
 * [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)
@@ -438,6 +436,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Active Directory
 
 ---
+* [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryhardening)
 
 * [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
