@@ -97,6 +97,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Basics Rooms
 
 ---
+* [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
+
 * [TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
 
 * [TryHackMe | x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
