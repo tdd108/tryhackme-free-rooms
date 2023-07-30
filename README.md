@@ -165,8 +165,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-* [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
-
 ## Networking
 
 ---
@@ -198,8 +196,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
 * [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
-
-* [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
 
 * [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
