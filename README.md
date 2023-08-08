@@ -853,6 +853,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Misc
 
 ---
+- [TryHackMe | CVE-2023-38408](https://tryhackme.com/room/cve202338408)
 
 - [TryHackMe | Introduction to Django](https://tryhackme.com/room/django)
 
