@@ -49,7 +49,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Intro Rooms
 
 ---
-
+* [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+  
 * [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
 * [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
@@ -853,6 +854,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Misc
 
 ---
+- [TryHackMe | Threat Intel & Containment](https://tryhackme.com/room/intelcreationandcontainment)
+  
 - [TryHackMe | CVE-2023-38408](https://tryhackme.com/room/cve202338408)
 
 - [TryHackMe | Introduction to Django](https://tryhackme.com/room/django)
