@@ -2,15 +2,14 @@
 
 <br/>
 
-Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right now.
+Hey people, here's a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
 
 All the rooms herein, are absolute free. ATTACK!!
 
 ## Maintainer
-> ***This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach [me.](https://t.me/winterrdog)*** 
+> ***This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)*** 
 
-<br/>
-
+#
 ## Table of Contents
 
 </aside>
@@ -47,7 +46,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Intro Rooms
 
----
 * [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
   
 * [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
@@ -74,7 +72,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Linux Fundamentals
 
----
 
 * [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
@@ -86,7 +83,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Windows Fundamentals
 
----
 
 * [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 
@@ -96,7 +92,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Basics Rooms
 
----
 * [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
 * [TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
@@ -125,7 +120,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Recon
 
----
 
 * [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
@@ -149,7 +143,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Scripting
 
----
 
 * [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
@@ -167,7 +160,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Networking
 
----
 
 * [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
@@ -185,7 +177,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Tooling
 
----
 
 * [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
@@ -221,7 +212,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Cryptography & Hashes
 
----
 
 * [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
@@ -237,7 +227,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Steganography
 
----
 
 * [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
 
@@ -253,7 +242,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Web
 
----
 * [TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 
 * [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
@@ -314,13 +302,11 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Android
 
----
 
 * [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
 
----
 * [TryHackMe | Digital Forensics Case B4DM755](https://tryhackme.com/room/caseb4dm755)
 
 * [TryHackMe | Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)
@@ -335,13 +321,11 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Wi-Fi Hacking
 
----
 
 * [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
 ## Reverse Engineering
 
----
 
 * [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
 
@@ -365,7 +349,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Malware Analysis
 
----
 
 * [TryHackMe | Intro to Detection Engineering](https://tryhackme.com/room/introtodetectionengineering)
 
@@ -385,7 +368,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## PrivEsc
 
----
 
 * [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
 
@@ -415,7 +397,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Windows
 
----
 
 * [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 
@@ -433,7 +414,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Active Directory
 
----
 * [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryhardening)
 
 * [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
@@ -448,7 +428,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## PCAP Analysis
 
----
 
 * [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
 
@@ -460,7 +439,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## BufferOverflow
 
----
 
 * [TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
 
@@ -472,7 +450,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Easy CTF
 
----
 * [TryHackMe | Red](https://tryhackme.com/room/redisl33t)
 
 * [TryHackMe | Snapped "Phish"-ing Line](https://tryhackme.com/room/snappedphishingline)
@@ -611,7 +588,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Medium CTF
 
----
 - [TryHackMe | Crylo](https://tryhackme.com/room/crylo4a)
 
 - [TryHackMe | Forgotten Implant](https://tryhackme.com/room/forgottenimplant)
@@ -774,7 +750,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Hard CTF
 
----
 
 - [TryHackMe | Motunui](https://tryhackme.com/room/motunui)
 
@@ -854,7 +829,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Misc
 
----
 - [TryHackMe | Threat Intel & Containment](https://tryhackme.com/room/intelcreationandcontainment)
   
 - [TryHackMe | CVE-2023-38408](https://tryhackme.com/room/cve202338408)
@@ -931,7 +905,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Special Events
 
----
 
 - [TryHackMe | 25 Days of Cyber Security](https://tryhackme.com/room/learncyberin25days)
 
