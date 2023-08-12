@@ -613,6 +613,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Medium CTF
 
 ---
+- [TryHackMe | Crylo](https://tryhackme.com/room/crylo4a)
+
 - [TryHackMe | Forgotten Implant](https://tryhackme.com/room/forgottenimplant)
 
 - [TryHackMe | Race Conditions](https://tryhackme.com/room/raceconditions)
