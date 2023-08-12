@@ -1,5 +1,4 @@
-# TryHackMe Road Map
----
+# TryHackMe Free Rooms( _they cost $0.00000_ )
 
 <br/>
 
