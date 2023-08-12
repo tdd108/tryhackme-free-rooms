@@ -3,12 +3,12 @@
 
 <br/>
 
-Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
+Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right now.
 
-All the rooms mentioned here are absolute free. ENJOY!!
+All the rooms herein, are absolute free. ATTACK!!
 
 ## Maintainer
-> ***This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach [me.](https://github.com/winterrdog/)*** 
+> ***This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach [me.](https://t.me/winterrdog)*** 
 
 <br/>
 
