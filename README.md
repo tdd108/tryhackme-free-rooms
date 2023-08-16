@@ -45,6 +45,7 @@ All the rooms herein, are absolute free. ATTACK!!
 | **Total Rooms:**                                  | **= 378**       |                           |
 
 ## Intro Rooms
+* [TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
 * [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
   
