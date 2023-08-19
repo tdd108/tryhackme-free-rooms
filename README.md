@@ -448,6 +448,7 @@ All the rooms herein, are absolute free. ATTACK!!
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* [TryHackMe | Grep](https://tryhackme.com/room/greprtp)
 
 * [TryHackMe | Red](https://tryhackme.com/room/redisl33t)
 
