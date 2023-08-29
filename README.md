@@ -26,7 +26,7 @@ All the rooms herein, are absolute free. ATTACK!!
 | **[Tooling](#tooling)**                           | **17**          |                           |
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |                           |
 | **[Steganography](#steganography)**               | **6**           |                           |
-| **[Web](#web)**                                   | **27**          |                           |
+| **[Web](#web)**                                   | **23**          |                           |
 | **[Android](#android)**                           | **1**           |                           |
 | **[Forensics](#forensics)**                       | **6**           |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                | **1**           |                           |
@@ -245,8 +245,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
-* [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
-
 * [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
 * [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
@@ -256,8 +254,6 @@ All the rooms herein, are absolute free. ATTACK!!
 * [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
 * [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
-
-* [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
 
 * [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 
@@ -271,12 +267,6 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
 
-* [TryHackMe | Injection](https://tryhackme.com/room/injection)
-
-* [TryHackMe | LFI Basics](https://tryhackme.com/room/lfibasics)
-
-* [TryHackMe | Inclusion](https://tryhackme.com/room/inclusion)
-
 * [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
 
 * [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
@@ -284,8 +274,6 @@ All the rooms herein, are absolute free. ATTACK!!
 * [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
 * [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-
-* [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
 * [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
