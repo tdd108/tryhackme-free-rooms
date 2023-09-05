@@ -45,6 +45,8 @@ All the rooms herein, are absolute free. ATTACK!!
 | **Total Rooms:**                                  | **= 378**       |                           |
 
 ## Intro Rooms
+* [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
+
 * [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
 
 * [TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
