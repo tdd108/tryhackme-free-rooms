@@ -595,6 +595,8 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Medium CTF
 
+- [TryHackMe | Athena](https://tryhackme.com/room/4th3n4)
+
 - [TryHackMe | Crylo](https://tryhackme.com/room/crylo4a)
 
 - [TryHackMe | Forgotten Implant](https://tryhackme.com/room/forgottenimplant)
