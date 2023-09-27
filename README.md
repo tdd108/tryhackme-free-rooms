@@ -45,6 +45,7 @@ All the rooms herein, are absolute free. ATTACK!!
 | **Total Rooms:**                                  | **= 378**       |                           |
 
 ## Intro Rooms
+* [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 * [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
 * [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
