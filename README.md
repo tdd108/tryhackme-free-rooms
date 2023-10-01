@@ -598,6 +598,9 @@ All the rooms herein, are absolute free. ATTACK!!
 * [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
+- [TryHackMe | Hunt Me I: Payment Collectors](https://tryhackme.com/room/paymentcollectors)
+
+- [TryHackMe | Hunt Me II: Typo Squatters](https://tryhackme.com/room/typosquatters)
 
 - [TryHackMe | Athena](https://tryhackme.com/room/4th3n4)
 
