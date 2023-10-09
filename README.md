@@ -455,6 +455,8 @@ All the rooms herein, are absolute free. ATTACK!!
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* [ TryHackMe | Compiled ](https://tryhackme.com/room/compiled)
+
 * [TryHackMe | Super Secret TIp](https://tryhackme.com/room/supersecrettip)
 
 * [TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
@@ -844,6 +846,7 @@ All the rooms herein, are absolute free. ATTACK!!
 - [TryHackMe | Shaker](https://tryhackme.com/room/shaker)
 
 ## Misc
+- [ TryHackMe | Looney Tunables ](https://tryhackme.com/room/looneytunes)
 
 - [TryHackMe | Threat Intel & Containment](https://tryhackme.com/room/intelcreationandcontainment)
   
