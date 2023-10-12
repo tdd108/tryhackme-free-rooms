@@ -403,6 +403,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Windows
 
+* (TryHackMe | Registry Persistence Detection)[https://tryhackme.com/room/registrypersistencedetection]
 
 * [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 
