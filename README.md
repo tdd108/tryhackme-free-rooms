@@ -847,6 +847,8 @@ All the rooms herein, are absolute free. ATTACK!!
 - [TryHackMe | Shaker](https://tryhackme.com/room/shaker)
 
 ## Misc
+- [TryHackMe | Confluence CVE-2023-22515](https://tryhackme.com/room/confluence202322515)
+
 - [ TryHackMe | Looney Tunables ](https://tryhackme.com/room/looneytunes)
 
 - [TryHackMe | Threat Intel & Containment](https://tryhackme.com/room/intelcreationandcontainment)
