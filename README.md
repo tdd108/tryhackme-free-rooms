@@ -311,6 +311,8 @@ All the rooms herein, are absolute free. ATTACK!!
 * [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
+* [TryHackMe | Servidae: Log Analysis in ELK](https://tryhackme.com/room/servidae)
+
 * [TryHackMe | Identification & Scoping](https://tryhackme.com/room/identificationandscoping)
 
 * [TryHackMe | Digital Forensics Case B4DM755](https://tryhackme.com/room/caseb4dm755)
