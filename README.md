@@ -458,6 +458,8 @@ All the rooms herein, are absolute free. ATTACK!!
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* (TryHackMe | The Witch's Cauldron)[https://tryhackme.com/room/cauldron]
+
 * [ TryHackMe | Bulletproof Penguin ](https://tryhackme.com/room/bppenguin)
 
 * [ TryHackMe | Hijack ](https://tryhackme.com/room/hijack)
