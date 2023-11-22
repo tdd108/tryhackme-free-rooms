@@ -9,7 +9,9 @@ All the rooms herein, are absolute free. ATTACK!!
 ## Maintainer
 > ***This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)*** 
 
-#
+## NEWS
+Don't forget to join the (Advent of Cyber 2023)[https://tryhackme.com/room/adventofcyber2023]. It's a very good course to boost your skill in cyber security. i reckon it's free :)
+
 ## Table of Contents
 
 </aside>
@@ -460,6 +462,8 @@ All the rooms herein, are absolute free. ATTACK!!
 ## Easy CTF
 * (TryHackMe | Probe)[https://tryhackme.com/room/probe]
 
+* (TryHackMe | Dreaming)[https://tryhackme.com/room/dreaming]
+
 * (TryHackMe | The Witch's Cauldron)[https://tryhackme.com/room/cauldron]
 
 * [ TryHackMe | Bulletproof Penguin ](https://tryhackme.com/room/bppenguin)
@@ -858,6 +862,8 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## Misc
 - [TryHackMe | Confluence CVE-2023-22515](https://tryhackme.com/room/confluence202322515)
+
+- (TryHackMe | Cactus)[https://tryhackme.com/room/cactus]
 
 - [ TryHackMe | Looney Tunables ](https://tryhackme.com/room/looneytunes)
 
