@@ -615,6 +615,7 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 * [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
+- [TryHackMe | AVenger](https://tryhackme.com/room/avenger)
 - [TryHackMe | Hunt Me I: Payment Collectors](https://tryhackme.com/room/paymentcollectors)
 
 - [TryHackMe | Hunt Me II: Typo Squatters](https://tryhackme.com/room/typosquatters)
@@ -943,7 +944,6 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 
 ## Special Events
 
-
 - [TryHackMe | 25 Days of Cyber Security](https://tryhackme.com/room/learncyberin25days)
 
 - [TryHackMe | Advent of Cyber 1 [2019]](https://tryhackme.com/room/25daysofchristmas)
@@ -953,6 +953,8 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 - [TryHackMe | Advent of Cyber 3 (2021)](https://tryhackme.com/room/adventofcyber3)
 
 - [TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
+
+- [TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
 
 - [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
 
