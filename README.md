@@ -616,6 +616,7 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 
 ## Medium CTF
 - [TryHackMe | AVenger](https://tryhackme.com/room/avenger)
+- [TryHackMe | Stealth](https://tryhackme.com/room/stealth)
 - [TryHackMe | Hunt Me I: Payment Collectors](https://tryhackme.com/room/paymentcollectors)
 
 - [TryHackMe | Hunt Me II: Typo Squatters](https://tryhackme.com/room/typosquatters)
