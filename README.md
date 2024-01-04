@@ -957,6 +957,8 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 
 - [TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
 
+- [TryHackMe | Advent of Cyber '23 Side Quest](https://tryhackme.com/room/adventofcyber23sidequest)
+
 - [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
 
 - [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
