@@ -856,6 +856,8 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 ## Misc
 - [TryHackMe | Confluence CVE-2023-22515](https://tryhackme.com/room/confluence202322515)
 
+- [TryHackMe | GitLab CVE-2023-7028](https://tryhackme.com/room/gitlabcve20237028)
+
 - (TryHackMe | Cactus)[https://tryhackme.com/room/cactus]
 
 - [ TryHackMe | Looney Tunables ](https://tryhackme.com/room/looneytunes)
