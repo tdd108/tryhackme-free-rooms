@@ -605,6 +605,7 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 * [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
+- [TryHackMe | Umbrella](https://tryhackme.com/room/umbrella)
 - [TryHackMe | AVenger](https://tryhackme.com/room/avenger)
 - [TryHackMe | WhyHackMe](https://tryhackme.com/room/whyhackme)
 - [TryHackMe | Stealth](https://tryhackme.com/room/stealth)
