@@ -249,6 +249,8 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 
 ## Web
 
+* [TryHackMe | HTTP Request Smuggling](https://tryhackme.com/room/httprequestsmuggling)
+
 * [TryHackMe | SSRF](https://tryhackme.com/room/ssrfhr)
 
 * [TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
