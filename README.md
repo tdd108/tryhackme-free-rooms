@@ -10,7 +10,7 @@ All the rooms herein, are absolute free. ATTACK!!
 > ***This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)*** 
 
 ## NEWS
-Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023). It's a very good course to boost your skill in cyber security. i reckon it's free :)
+Practice, Practice and Practice...! it'll all finally fall into place. No shortcut folks :)
 
 ## Table of Contents
 
