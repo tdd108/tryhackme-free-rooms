@@ -417,7 +417,7 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 
 ## Active Directory
 
-* [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryhardening)
+* [TryHackMe | Active Directory ening](https://tryhackme.com/room/activedirectoryening)
 
 * [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
@@ -778,7 +778,7 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 - [TryHackMe | Road](https://tryhackme.com/room/road)
 
 ## Hard CTF
-
+- [TryHackMe | Reset](https://tryhackme.com/room/resetui)
 
 - [TryHackMe | Motunui](https://tryhackme.com/room/motunui)
 
