@@ -417,7 +417,7 @@ Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adven
 
 ## Active Directory
 
-* [TryHackMe | Active Directory ening](https://tryhackme.com/room/activedirectoryening)
+* [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryening)
 
 * [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
