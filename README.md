@@ -248,7 +248,7 @@ Practice, Practice and Practice...! it'll all finally fall into place. No shortc
 * [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
 ## Web
-
+* [TryHackMe | File Inclusion, Path Traversal](https://tryhackme.com/room/filepathtraversal)
 * [TryHackMe | HTTP Request Smuggling](https://tryhackme.com/room/httprequestsmuggling)
 
 * [TryHackMe | SSRF](https://tryhackme.com/room/ssrfhr)
