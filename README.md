@@ -607,6 +607,7 @@ Practice, Practice and Practice...! it'll all finally fall into place. No shortc
 * [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
+- [TryHackMe | Kitty](https://tryhackme.com/room/kitty)
 - [TryHackMe | Umbrella](https://tryhackme.com/room/umbrella)
 - [TryHackMe | AVenger](https://tryhackme.com/room/avenger)
 - [TryHackMe | WhyHackMe](https://tryhackme.com/room/whyhackme)
