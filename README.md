@@ -12,6 +12,11 @@ All the rooms herein, are absolute free. ATTACK!!
 ## NEWS
 Practice, Practice and Practice...! it'll all finally fall into place. No shortcut folks :)
 
+## HOW YOU CAN SUPPORT
+If you genuinely feel like this project helped you a lot, you can always send your appreciation _anonymously_ to these wallets:
+BTC: `17duzuYcv1QRDojfvmFVFowrKBe9EyQ1Bo`
+USDT: `TWSv2CmzZ9Xgp8j8PwfTDZ329CXJPokpHH`
+
 ## Table of Contents
 
 </aside>
