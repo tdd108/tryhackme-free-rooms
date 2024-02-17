@@ -188,7 +188,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
-
+* [TryHackMe | Intro to IaC](https://tryhackme.com/room/introtoiac)
 
 * [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
@@ -223,7 +223,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
 ## Cryptography & Hashes
-
+* [TryHackMe | Breaking RSA](https://tryhackme.com/room/breakrsa)
 
 * [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
