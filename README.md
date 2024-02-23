@@ -865,6 +865,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [TryHackMe | Shaker](https://tryhackme.com/room/shaker)
 
 ## Misc
+- [TryHackMe | Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink)
 - [TryHackMe | Confluence CVE-2023-22515](https://tryhackme.com/room/confluence202322515)
 
 - [TryHackMe | GitLab CVE-2023-7028](https://tryhackme.com/room/gitlabcve20237028)
