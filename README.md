@@ -786,6 +786,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [TryHackMe | Road](https://tryhackme.com/room/road)
 
 ## Hard CTF
+- [TryHackMe | Chrome](https://tryhackme.com/room/chrome)
 - [TryHackMe | Reset](https://tryhackme.com/room/resetui)
 
 - [TryHackMe | Motunui](https://tryhackme.com/room/motunui)
