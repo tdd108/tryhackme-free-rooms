@@ -255,6 +255,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 ## Web
 * [TryHackMe | File Inclusion, Path Traversal](https://tryhackme.com/room/filepathtraversal)
 * [TryHackMe | HTTP Request Smuggling](https://tryhackme.com/room/httprequestsmuggling)
+* [TryHackMe | HTTP/2 Request Smuggling](https://tryhackme.com/room/http2requestsmuggling)
 
 * [TryHackMe | SSRF](https://tryhackme.com/room/ssrfhr)
 
