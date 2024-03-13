@@ -311,6 +311,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
+* [TryHackMe | Legal Considerations in DFIR](https://tryhackme.com/room/dfirprocesslegalconsiderations)
+
 * [TryHackMe | Servidae: Log Analysis in ELK](https://tryhackme.com/room/servidae)
 
 * [TryHackMe | Identification & Scoping](https://tryhackme.com/room/identificationandscoping)
