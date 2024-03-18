@@ -617,6 +617,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
+- [TryHackMe | Hack Smarter Security](https://tryhackme.com/room/hacksmartersecurity)
 - [TryHackMe | Kitty](https://tryhackme.com/room/kitty)
 - [TryHackMe | Umbrella](https://tryhackme.com/room/umbrella)
 - [TryHackMe | AVenger](https://tryhackme.com/room/avenger)
