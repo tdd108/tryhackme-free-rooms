@@ -52,6 +52,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **Total Rooms:**                                  | **= 378**       |                           |
 
 ## Intro Rooms
+* [TryHackMe | Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
 * [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 * [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
 * [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
