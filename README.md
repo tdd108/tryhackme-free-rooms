@@ -462,6 +462,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* (TryHackMe | Creative)[https://tryhackme.com/r/room/creative]
 * (TryHackMe | Eviction)[https://tryhackme.com/room/eviction]
 
 * (TryHackMe | Probe)[https://tryhackme.com/room/probe]
