@@ -254,6 +254,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
 ## Web
+* (TryHackMe | XSS)[https://tryhackme.com/r/room/axss]
 * [TryHackMe | File Inclusion, Path Traversal](https://tryhackme.com/room/filepathtraversal)
 * [TryHackMe | HTTP Request Smuggling](https://tryhackme.com/room/httprequestsmuggling)
 * [TryHackMe | HTTP/2 Request Smuggling](https://tryhackme.com/room/http2requestsmuggling)
@@ -462,6 +463,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* (TryHackMe | TryHack3M: Bricks Heist)[https://tryhackme.com/r/room/tryhack3mbricksheist]
 * (TryHackMe | Creative)[https://tryhackme.com/r/room/creative]
 * (TryHackMe | Eviction)[https://tryhackme.com/room/eviction]
 
