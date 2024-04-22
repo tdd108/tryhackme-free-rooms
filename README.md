@@ -255,6 +255,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Web
 * (TryHackMe | XSS)[https://tryhackme.com/r/room/axss]
+* (TryHackMe | CSRF)[https://tryhackme.com/r/room/csrfV2]
 * [TryHackMe | File Inclusion, Path Traversal](https://tryhackme.com/room/filepathtraversal)
 * [TryHackMe | HTTP Request Smuggling](https://tryhackme.com/room/httprequestsmuggling)
 * [TryHackMe | HTTP/2 Request Smuggling](https://tryhackme.com/room/http2requestsmuggling)
@@ -796,6 +797,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [TryHackMe | Road](https://tryhackme.com/room/road)
 
 ## Hard CTF
+- [TryHackMe | Capture Returns](https://tryhackme.com/r/room/capturereturns)
 - [TryHackMe | Chrome](https://tryhackme.com/room/chrome)
 - [TryHackMe | Reset](https://tryhackme.com/room/resetui)
 
