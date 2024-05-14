@@ -623,6 +623,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
+- [TryHackMe | Profiles](https://tryhackme.com/r/room/profilesroom)
 - [TryHackMe | Clocky](https://tryhackme.com/r/room/clocky)
 - [TryHackMe | Hack Smarter Security](https://tryhackme.com/room/hacksmartersecurity)
 - [TryHackMe | Kitty](https://tryhackme.com/room/kitty)
