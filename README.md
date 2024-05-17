@@ -314,6 +314,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
+- [TryHackMe | IR Philosophy and Ethics](https://tryhackme.com/r/room/irphilosophyethics)
 - [TryHackMe | Windows Applications Forensics](https://tryhackme.com/r/room/windowsapplications)
 * [TryHackMe | Legal Considerations in DFIR](https://tryhackme.com/room/dfirprocesslegalconsiderations)
 
