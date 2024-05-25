@@ -465,6 +465,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* (TryHackMe | CyberLens)[https://tryhackme.com/r/room/cyberlensp6]
 * (TryHackMe | TryHack3M: Bricks Heist)[https://tryhackme.com/r/room/tryhack3mbricksheist]
 * (TryHackMe | Creative)[https://tryhackme.com/r/room/creative]
 * (TryHackMe | Eviction)[https://tryhackme.com/room/eviction]
