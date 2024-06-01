@@ -90,7 +90,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 * [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-* [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+* [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2) -- Multiple persons have claimed this room is NO longer free, so we're scheduling its _redaction_
 
 * [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
@@ -465,6 +465,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* (TryHackMe | Linux Process Analysis)[https://tryhackme.com/r/room/linuxprocessanalysis]
 * (TryHackMe | CyberLens)[https://tryhackme.com/r/room/cyberlensp6]
 * (TryHackMe | TryHack3M: Bricks Heist)[https://tryhackme.com/r/room/tryhack3mbricksheist]
 * (TryHackMe | Creative)[https://tryhackme.com/r/room/creative]
